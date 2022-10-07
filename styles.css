@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    font-family: Verdana;
+}
+p{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 15px;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+
